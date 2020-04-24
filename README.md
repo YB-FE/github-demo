@@ -1,3 +1,2 @@
 # github-demo
-Simple demo repository to show github workflow 
-Changed now
+Simple demo repository to show github workflow
